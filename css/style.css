@@ -7,18 +7,15 @@
 
     .swiper {
       width: 1350px;
-      height:;
+      height:auto;
     }
 
     .swiper-slide {
-      /* display: flex; */
+      display: flex;
       justify-content: center;
       align-items: center;
     }
 
     .swiper-slide img {
-      /* display: block; */
       width: 453px;
-      /* height: ; */
-      /* object-fit: cover; */
     }
