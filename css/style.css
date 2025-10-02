@@ -1,0 +1,24 @@
+.container {
+  width: 90%;
+  max-width: 1350px;
+  margin: 0 auto;
+}
+
+
+    .swiper {
+      width: 1350px;
+      height:;
+    }
+
+    .swiper-slide {
+      /* display: flex; */
+      justify-content: center;
+      align-items: center;
+    }
+
+    .swiper-slide img {
+      /* display: block; */
+      width: 453px;
+      /* height: ; */
+      /* object-fit: cover; */
+    }
